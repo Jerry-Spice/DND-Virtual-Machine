@@ -1,3 +1,0 @@
-castle,open maps/castle.png
-library,open maps/abandonedLibrary.png
-create player,creature Player 0 0 50 creatures/sample_player.png
